@@ -1,0 +1,42 @@
+﻿Сборка начата 21.05.2015 3:02:36.
+     1>Проект "C:\Users\Stetsenko\Desktop\laba1(v1)\laba1(v1).vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt "laba1(v1).cpp"
+         laba1(v1).cpp
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(36): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(71): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(63): warning C4101: i: неиспользованная локальная переменная
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(114): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(126): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(127): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(128): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(134): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(135): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(136): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(142): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(143): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(144): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(150): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(151): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(152): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(158): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(159): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(160): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(161): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(165): warning C4100: yy: неиспользованный формальный параметр
+     1>c:\users\stetsenko\desktop\laba1(v1)\Draw.h(165): warning C4100: xx: неиспользованный формальный параметр
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Stetsenko\Desktop\laba1(v1)\x64\Release\laba1(v1).exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Stetsenko\Desktop\laba1(v1)\x64\Release\laba1(v1).pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Stetsenko\Desktop\laba1(v1)\x64\Release\laba1(v1).lib" /MACHINE:X64 "x64\Release\laba1(v1).res"
+         x64\Release\DataBase.obj
+         "x64\Release\laba1(v1).obj"
+         "x64\Release\laba1(v1)Dlg.obj"
+         x64\Release\Render.obj
+         x64\Release\stdafx.obj
+         Создание кода
+         Создание кода завершено
+         laba1(v1).vcxproj -> C:\Users\Stetsenko\Desktop\laba1(v1)\x64\Release\laba1(v1).exe
+     1>Сборка проекта "C:\Users\Stetsenko\Desktop\laba1(v1)\laba1(v1).vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:09.56
